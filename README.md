@@ -2,21 +2,19 @@
   <span style='font-size: 15pt'><strong>Author:</strong>  <a href="https://www.linkedin.com/in/liang-wei-liu/">Lliu Liang Wei</a></span>
  
 </p>
-## Table of contents
+<h1>Table of contents</h1>
 
-  * [Introduction](#introduction)
+  * [Description](#introduction)
   	* [Who is this repository for?](#audience)
   	* [How to use this repository?](#howtouse)
-  * [Getting your Python setup ready](#setup)
-  * [Using Python](#usingpython)
-  	 * [Jupyter Notebook](#jupyter)
-  	 * [Installing packages](#packages)
-  * [Tutorial Notebooks](#notebooks)
+  * [Eliminate-null](#null)
+    * [](#)
+    * [](#)
+  * [Normalization](#nor)
+  * [Visualization](#vis)
   	* [Exercises](#exercises)
-  * [Code along](#codealong)
-     * [Binder](#binder)
-     * [Clone repository](#clonerepo)
-  * [Questions?](#questions)
-  * [License](#license)
-  * [Special thanks](#specialthanks)
+  * [Machine Learning](#ml)
+     * [Linear-Regression](#lr)
+     * [Decision-Tree](#tree)
+     * [k-nearest neighbors](#knn)
 

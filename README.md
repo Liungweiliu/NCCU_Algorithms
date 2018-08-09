@@ -2,9 +2,21 @@
   <span style='font-size: 15pt'><strong>Author:</strong>  <a href="https://www.linkedin.com/in/liang-wei-liu/">Lliu Liang Wei</a></span>
  
 </p>
-# NCCU_Algorithms
-NCCU_Algorithms contains report and codes of the final project in 1062 semester.
+## Table of contents
 
-The topic is urine testing data analysis, using matplotlib and sklearn for vistualization and regrassion.
+  * [Introduction](#introduction)
+  	* [Who is this repository for?](#audience)
+  	* [How to use this repository?](#howtouse)
+  * [Getting your Python setup ready](#setup)
+  * [Using Python](#usingpython)
+  	 * [Jupyter Notebook](#jupyter)
+  	 * [Installing packages](#packages)
+  * [Tutorial Notebooks](#notebooks)
+  	* [Exercises](#exercises)
+  * [Code along](#codealong)
+     * [Binder](#binder)
+     * [Clone repository](#clonerepo)
+  * [Questions?](#questions)
+  * [License](#license)
+  * [Special thanks](#specialthanks)
 
-The related pdf document and codes are arranged in a clear logical thinking.

@@ -1,5 +1,5 @@
 <p align="center">
-  <span style='font-size: 15pt'><strong>Author:</strong>  <a href="https://www.linkedin.com/in/liang-wei-liu/">Lliu Liang Wei</a></span>
+  <span style='font-size: 15pt'><strong>Author:</strong>  <a href="https://www.linkedin.com/in/liang-wei-liu/">Liu Liang Wei</a></span>
  
 </p>
 <h1>Table of contents</h1>

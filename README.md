@@ -1,3 +1,7 @@
+<p align="center">
+  <span style='font-size: 15pt'><strong>Author:</strong>  <a href="https://www.linkedin.com/in/liang-wei-liu/">Lliu Liang Wei</a></span>
+ 
+</p>
 # NCCU_Algorithms
 NCCU_Algorithms contains report and codes of the final project in 1062 semester.
 

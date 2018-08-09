@@ -5,8 +5,8 @@
 <h1>Table of contents</h1>
 
   * [Description](#desc)
-  	* [Who is this repository for?](#audience)
-  	* [How to use this repository?](#howtouse)
+  	* [Features in the urine data](#feature)
+  	* [Source and References](#source)
   * [Eliminate-null](#null)
     * [Mathod1: fill null with 0](#zero)
     * [Mathod2: fill the null with the average of the feature](#aver)

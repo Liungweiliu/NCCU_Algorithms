@@ -43,22 +43,27 @@ The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Data: A Coll
 <h2 id="null">Eliminate-null</h2>
 <img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/raw%20description.JPG" alt="Get started with Python for Research" title="Get started with Python for Research" />
 
-<h3 id="zero">Mathod1: fill null with 0</h3>
-<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Mathod1%20fill%20null%20with%200.JPG" alt="Mathod1: fill null with 0" title="Mathod1: fill null with 0" />
+<h3 id="zero">Method1: fill null with 0</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Method1%20fill%20null%20with%200.JPG" alt="Method1: fill null with 0" title="Method1: fill null with 0" />
 
-<h3 id="aver">Mathod2: fill the null with the average of the feature</h3>
-<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Mathod2%20fill%20the%20null%20with%20the%20average%20of%20the%20feature.JPG" alt="Mathod2: fill the null with the average of the feature" title="Mathod2: fill the null with the average of the feature" />
+<h3 id="aver">Method2: fill the null with the average of the feature</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Method2%20fill%20the%20null%20with%20the%20average%20of%20the%20feature.JPG" alt="Method2: fill the null with the average of the feature" title="Method2: fill the null with the average of the feature" />
 
-<h3 id="drop">Mathod3: directly drop the null</h3>
-<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Mathod3%20directly%20drop%20the%20null.JPG" alt="Mathod3: directly drop the null" title="Mathod3: directly drop the null" />
+<h3 id="drop">Method3: directly drop the null</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Method3%20directly%20drop%20the%20null.JPG" alt="Method3: directly drop the null" title="Method3: directly drop the null" />
 
-<h3 id="comp">Comparison</h3>
-<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Mathod3%20directly%20drop%20the%20null.JPG" alt="Comparision" title="Comparison" />
+<h3 id="comp">Three methods comparison</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Methods%20comparison.PNG" alt="Comparision" title="Three methods comparison" />
 
 <h2 id="nor">Normalization</h2>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Normalization.PNG" alt="Normalization" title="Normalization" />
 
 <h2 id="vis">Visualization</h2>
 <h3 id="interaction">Interaction of all features</h3>
+Correlation of calcium oxalate crystals with distribution of other features
+
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Correlation%20of%20calcium%20oxalate%20crystals%20with%20distribution%20of%20each%20feature.svg.PNG" alt="Normalization" title="Correlation of calcium oxalate crystals with distribution of other features"
+
   * Correlation of calcium oxalate crystals with distribution of other features
   * Correlation of Gravity with distribution of other features
   

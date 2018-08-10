@@ -13,7 +13,7 @@
     * [Mathod3: directly drop the null](#drop)
   * [Normalization](#nor)
   * [Visualization](#vis)
-  	* [Exercises](#exercises)
+  	* [Matplotlib](#mat)
   * [Machine Learning](#ml)
      * [Linear-Regression](#lr)
      * [Decision-Tree](#tree)
@@ -41,11 +41,22 @@ The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Data: A Coll
 <h2 id="null">Eliminate-null</h2>
 
 <h3 id="zero">Mathod1: fill null with 0</h3>
-
+<img src="https://i.imgur.com/KZGIDj0.png" alt="Get started with Python for Research" title="Get started with Python for Research" />
 <h3 id="aver">Mathod2: fill the null with the average of the feature</h3>
-
+<img src="https://i.imgur.com/KZGIDj0.png" alt="Get started with Python for Research" title="Get started with Python for Research" />
 <h3 id="drop">Mathod3: directly drop the null</h3>
+<img src="https://i.imgur.com/KZGIDj0.png" alt="Get started with Python for Research" title="Get started with Python for Research" />
 
-<h2 id="desc">Description</h2>
-<h2 id="desc">Description</h2>
-<h2 id="desc">Description</h2>
+<h2 id="nor">Normalization</h2>
+
+<h2 id="vis">Visualization</h2>
+
+<h3 id="mat">Matplotlib</h3>
+
+<h2 id="ml">Machine Learning</h2>
+
+<h3 id="lr">Linear-Regression</h3>
+
+<h3 id="tree">Decision-Tree</h3>
+
+<h3 id="knn">k-nearest neighbors</h3>

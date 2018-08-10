@@ -61,24 +61,32 @@ The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Data: A Coll
 <h2 id="vis">Visualization</h2>
 <h3 id="interaction">Interaction of all features</h3>
 Correlation of calcium oxalate crystals with distribution of other features
+<h3 id="calc">Correlation of calcium oxalate crystals with distribution of other features</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/svg/Correlation%20of%20calcium%20oxalate%20crystals%20with%20distribution%20of%20each%20feature.svg" alt="calc" title="Correlation of calcium oxalate crystals with distribution of other features"/>
 
-<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Correlation%20of%20calcium%20oxalate%20crystals%20with%20distribution%20of%20each%20feature.png" alt="calc" title="Correlation of calcium oxalate crystals with distribution of other features"/>
-
-  * Correlation of calcium oxalate crystals with distribution of other features
-  * Correlation of Gravity with distribution of other features
+<h3 id="grav">Correlation of Gravity with distribution of other features</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/svg/Correlation%20of%20Gravity%20with%20distribution%20of%20other%20features.svg" alt="calc" title="Correlation of calcium oxalate crystals with distribution of other features"/>
   
 <h3 id="scatter">Two features scatter</h3>
-  * Gravity and Urea scatter
-  * Urea and Calcium scatter
-  * Osmo and calc scatter
-  * Urea and pH scatter
 
-<h3 id="mat">Matplotlib</h3>
+<h3 id="gu">Gravity and Urea scatter</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/svg/Gravity%20and%20Urea%20scatter.svg" alt="gu" title="Gravity and Urea scatter"/>
+
+<h3 id="uc">Urea and Calcium scatter</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/svg/Calcium%20and%20Urea%20scatter.svg" alt="uc" title="Urea and Calcium scatter"/>
+
+<h3 id="oc">Osmo and calc scatter</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/svg/Calcium%20and%20Urea%20scatter.svg" alt="oc" title="Osmo and calc scatter"/>
+
+<h3 id="upH">Urea and pH scatter</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/svg/Calcium%20and%20Urea%20scatter.svg" alt="upH" title="Urea and pH scatter"/>
 
 <h2 id="ml">Machine Learning</h2>
 
 <h3 id="lr">Linear-Regression</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/svg/Linear%20regression%20between%20gravity%20and%20urine.svg" alt="lr" title="Linear-Regression"/>
 
 <h3 id="tree">Decision-Tree</h3>
 
 <h3 id="knn">k-nearest neighbors</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/svg/knn.svg" alt="knn" title="k-nearest neighbors"/>

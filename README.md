@@ -8,9 +8,10 @@
   	* [Features in the urine data](#feature)
   	* [Source and References](#source)
   * [Eliminate-null](#null)
-    * [Mathod1: fill null with 0](#zero)
-    * [Mathod2: fill the null with the average of the feature](#aver)
-    * [Mathod3: directly drop the null](#drop)
+    * [Method1: fill null with 0](#zero)
+    * [Method2: fill the null with the average of the feature](#aver)
+    * [Method3: directly drop the null](#drop)
+    * [Comparision](#comp)
   * [Normalization](#nor)
   * [Visualization](#vis)
   	* [Interaction of all features](#interaction)
@@ -50,6 +51,9 @@ The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Data: A Coll
 
 <h3 id="drop">Mathod3: directly drop the null</h3>
 <img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Mathod3%20directly%20drop%20the%20null.JPG" alt="Mathod3: directly drop the null" title="Mathod3: directly drop the null" />
+
+<h3 id="comp">Comparison</h3>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Mathod3%20directly%20drop%20the%20null.JPG" alt="Comparision" title="Comparison" />
 
 <h2 id="nor">Normalization</h2>
 

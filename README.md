@@ -62,7 +62,7 @@ The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Data: A Coll
 <h3 id="interaction">Interaction of all features</h3>
 Correlation of calcium oxalate crystals with distribution of other features
 
-<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Correlation%20of%20calcium%20oxalate%20crystals%20with%20distribution%20of%20each%20feature.svg.PNG" alt="Normalization" title="Correlation of calcium oxalate crystals with distribution of other features"
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Correlation%20of%20calcium%20oxalate%20crystals%20with%20distribution%20of%20each%20feature.png" alt="calc" title="Correlation of calcium oxalate crystals with distribution of other features"/>
 
   * Correlation of calcium oxalate crystals with distribution of other features
   * Correlation of Gravity with distribution of other features

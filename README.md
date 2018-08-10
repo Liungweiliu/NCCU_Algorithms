@@ -13,7 +13,8 @@
     * [Mathod3: directly drop the null](#drop)
   * [Normalization](#nor)
   * [Visualization](#vis)
-  	* [Matplotlib](#mat)
+  	* [Interaction of all features](#interaction)
+    * [Two features scatter](#scatter)
   * [Machine Learning](#ml)
      * [Linear-Regression](#lr)
      * [Decision-Tree](#tree)
@@ -39,17 +40,29 @@ The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Data: A Coll
 <strong>Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press.</strong>
 
 <h2 id="null">Eliminate-null</h2>
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/raw%20description.JPG" alt="Get started with Python for Research" title="Get started with Python for Research" />
 
 <h3 id="zero">Mathod1: fill null with 0</h3>
-<img src="https://i.imgur.com/KZGIDj0.png" alt="Get started with Python for Research" title="Get started with Python for Research" />
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Mathod1%20fill%20null%20with%200.JPG" alt="Mathod1: fill null with 0" title="Mathod1: fill null with 0" />
+
 <h3 id="aver">Mathod2: fill the null with the average of the feature</h3>
-<img src="https://i.imgur.com/KZGIDj0.png" alt="Get started with Python for Research" title="Get started with Python for Research" />
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Mathod2%20fill%20the%20null%20with%20the%20average%20of%20the%20feature.JPG" alt="Mathod2: fill the null with the average of the feature" title="Mathod2: fill the null with the average of the feature" />
+
 <h3 id="drop">Mathod3: directly drop the null</h3>
-<img src="https://i.imgur.com/KZGIDj0.png" alt="Get started with Python for Research" title="Get started with Python for Research" />
+<img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Mathod3%20directly%20drop%20the%20null.JPG" alt="Mathod3: directly drop the null" title="Mathod3: directly drop the null" />
 
 <h2 id="nor">Normalization</h2>
 
 <h2 id="vis">Visualization</h2>
+<h3 id="interaction">Interaction of all features</h3>
+  * Correlation of calcium oxalate crystals with distribution of other features
+  * Correlation of Gravity with distribution of other features
+  
+<h3 id="scatter">Two features scatter</h3>
+  * Gravity and Urea scatter
+  * Urea and Calcium scatter
+  * Osmo and calc scatter
+  * Urea and pH scatter
 
 <h3 id="mat">Matplotlib</h3>
 

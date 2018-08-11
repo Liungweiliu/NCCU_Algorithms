@@ -1,7 +1,12 @@
 <p align="center">
   <span style='font-size: 15pt'><strong>Author:</strong>  <a href="https://www.linkedin.com/in/liang-wei-liu/">Liu Liang Wei</a></span>
- 
 </p>
+<h2 id="intro">Introduction</h2>
+<p align="center">This repository based on the NCCU Algorithms course final project in 2018 spring.<br> </p>
+The following analysis implemented pandas on solving dataframe, numpy for array, matplotlib for vistualization, sklearn in machine learning analysis. These packages are friendly for beginning Python users and supported by huge social groups. It's worth learning these useful packages.<br>
+Generally, clinical urine tests contain 6 target parameters, which are Color, Smell, Ions and trace metals, Proteins and enzymes, Blood cells and Drugs. Each sort of urine testing parameter has their significant influence on the kidney-related disease. In the dataset, it provides urine test data for “Calcium oxalate crystals”, the most common type of kidney stones.<br>
+  The task of this data analysis is to find out useful information between the features and understand the meaning in the real case. Once we can use these feature for supporting medical treatment, healthcare professional can release the pressure and decrease their works. What’s more, patients can have a better quality of medical treatment. As the result, it’s meaningful to mining and analysis the relation between these features and the presence of calcium oxalate crystals.<br> 
+
 <h1>Table of contents</h1>
 
   * [Description](#desc)
@@ -29,16 +34,14 @@ This data frame contains the following columns: r, gravity, ph,osmo, cond,urea a
 * r: 腎結石有無出現 | Indicator of the presence of calcium oxalate crystals.
 * gravity: 尿液比重 |The specific gravity of the urine.
 * ph: The pH reading of the urine.
-* osmo: 滲透壓 | The osmolarity of the urine. Osmolarity is proportional to the concentration of molecules in solution. <strong>No.54 has no osmo value</strong>
+* osmo: 滲透壓 | The osmolarity of the urine. Osmolarity is proportional to the concentration of molecules in solution. <br><strong>No.54 has no osmo value</strong>
 * cond: The conductivity of the urine. Conductivity is proportional to the concentration of charged ions in solution. <br><strong>No.0 has no cond value</strong>
 * urea: 血清脲濃度 | The urea concentration in millimoles per litre.
 * calc: 鈣濃度 | The calcium concentration in millimoles per litre.
     
 <h3 id="source">Source and References</h3>
 
-The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Data: A Collection of Problems from Many Fields for the Student and Research Worker. Springer-Verlag.<br>
-
-<strong>Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press.</strong>
+<a href="http://vincentarelbundock.github.io/Rdatasets/doc/boot/urine.html">The data were obtained from Andrews, D.F. and Herzberg, A.M. (1985) Data: A Collection of Problems from Many Fields for the Student and Research Worker. Springer-Verlag.<br><br>Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press.</a></span>
 
 <h2 id="null">Eliminate-null</h2>
 <img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/raw%20description.JPG" alt="Get started with Python for Research" title="Get started with Python for Research" />

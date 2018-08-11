@@ -42,10 +42,11 @@ This data frame contains the following columns: r, gravity, ph,osmo, cond,urea a
 * calc: 鈣濃度 | The calcium concentration in millimoles per litre.
 
 <h2 id="null">Eliminate-null</h2>
-Two missing values occur at the column of the conductivity of the urine of No.0 sample and the column of osmolarity of the urine of No.54 sample.
+Two missing values occur at the column of the conductivity of the urine of No.0 sample and the column of osmolarity of the urine of No.54 sample.<br>
+
 <img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/raw%20description.JPG" alt="Get started with Python for Research" title="Get started with Python for Research" /><br>
 
-There are **three** common methods, **replacing with zero**, **replacing with average** and **removing them**, for eliminating the negative influence of missing.
+There are **three** common methods, **replacing with zero**, **replacing with average** and **removing them**, for eliminating the negative influence of missing.<br>
 
 <h3 id="zero">Method1: fill null with 0</h3>
 <img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Method1%20fill%20null%20with%200.JPG" alt="Method1: fill null with 0" title="Method1: fill null with 0" />
@@ -59,6 +60,7 @@ There are **three** common methods, **replacing with zero**, **replacing with av
 <h3 id="comp">Three methods comparison</h3>
 
 The comparison indicates that both of **replacing average method** and **dropping missing value** are rather **stable in mean and standard deviation**. These two methods can represent the similar distribution of original data. As the result, the following analysis will be based on the drop missing value method.<br>
+
 <img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/Methods%20comparison.PNG" alt="Comparision" title="Three methods comparison" />
 
 <h2 id="nor">Normalization</h2>

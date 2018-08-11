@@ -1,7 +1,7 @@
 <p align="center">
   <span style='font-size: 15pt'><strong>Author:</strong>  <a href="https://www.linkedin.com/in/liang-wei-liu/">Liu Liang Wei</a></span>
 </p>
-<h2 id="intro">Introduction</h2>
+<h1 id="intro">Introduction</h1>
 <p align="center">This repository based on the NCCU Algorithms course final project in 2018 spring.<br> </p>
 
   The following analysis implemented **pandas** on solving dataframe, **numpy** for array, **matplotlib** for vistualization, **sklearn** in machine learning analysis. These packages are friendly for beginning **Python** users and supported by huge social groups. It's worth learning these useful packages.<br><br>

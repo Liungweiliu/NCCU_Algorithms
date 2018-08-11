@@ -42,6 +42,7 @@ This data frame contains the following columns: r, gravity, ph,osmo, cond,urea a
 * calc: 鈣濃度 | The calcium concentration in millimoles per litre.
 
 <h2 id="null">Eliminate-null</h2>
+
 Two missing values occur at the column of the conductivity of the urine of No.0 sample and the column of osmolarity of the urine of No.54 sample.<br>
 
 <img src="https://github.com/Liungweiliu/NCCU_Algorithms/blob/master/image/raw%20description.JPG" alt="Get started with Python for Research" title="Get started with Python for Research" /><br>
